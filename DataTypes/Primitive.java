@@ -1,3 +1,4 @@
+package DataTypes;
 public class Primitive {
     public static void main(String[] args) {
         byte by = 1;
